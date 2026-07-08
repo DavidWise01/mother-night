@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 907
+slug  : mother-night
+seal  : d4e5958c511045de1ea59489c5f8a36c3c28abb9b1ae97603ed7755c1b11bfae
+prev  : 27ac71f100595c3f4534bc20c28a9b23f500c47a73871dcca10ad4f8983d641d
+link  : 3dc25379a84f8e0a1914cc911ec945028b16a075f5dc20cd7d67031d98f085b4
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
